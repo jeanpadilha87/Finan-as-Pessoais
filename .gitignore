@@ -1,0 +1,10 @@
+**/node_modules/
+**/dist/
+**/.git-backup/
+**/.env
+**/.env.*
+!**/.env.example
+Back/Sistema-de-Despesas-Pessoais-Node.js-/private-receipts/
+*.log
+.DS_Store
+Thumbs.db
